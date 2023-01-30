@@ -1,0 +1,1 @@
+return { path = "/home/meleehao", documents = {["views"]={[1]={["text"]=false,["filename"]=".config/lite-xl/init.lua",["selection"]={[1]=28,[2]=96,[3]=28,[4]=96},["active"]=true,["scroll"]={["y"]=876.88945764957,["x"]=0},["type"]="doc"}},["active_view"]=1,["type"]="leaf"}, directories = {} }

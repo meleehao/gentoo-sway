@@ -1,0 +1,1 @@
+app-editors/vim terminal lua_single_target: -lua5-1 lua5-4

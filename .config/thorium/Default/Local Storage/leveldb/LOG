@@ -1,0 +1,5 @@
+2023/01/30-13:28:55.255 3 Reusing MANIFEST /home/meleehao/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/01/30-13:28:55.255 3 Recovering log #3
+2023/01/30-13:28:55.255 3 Level-0 table #3: started
+2023/01/30-13:28:55.260 3 Level-0 table #3: 28178 bytes OK
+2023/01/30-13:28:55.262 3 Delete type=0 #3
